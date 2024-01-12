@@ -1,0 +1,21 @@
+----------【HTML】----------
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+
+<title>6-2-1 複数の画像を一覧で見せる</title>
+
+<!-- lightbox.css -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.10.0/css/lightbox.min.css" />
+
+GALLERY
+
+<!----- JS ----->
+<!-- jQuery -->
+<script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+<!-- lightbox.js -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.10.0/js/lightbox.min.js"></script>
+<!-- script.js -->
+<script src="assets/js/script.js"></script>
+
+
+----------【CSS】----------
+@import "https://unpkg.com/ress/dist/ress.min.css";
